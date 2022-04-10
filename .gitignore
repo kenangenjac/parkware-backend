@@ -1,0 +1,6 @@
+node_modules/
+.vscode/
+.env
+settings.json
+node_modules
+/node_modules
